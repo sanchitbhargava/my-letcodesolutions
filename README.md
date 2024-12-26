@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0228-summary-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
