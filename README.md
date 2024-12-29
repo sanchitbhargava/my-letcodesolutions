@@ -40,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0020-valid-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
