@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/0228-summary-ranges) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/sanchitbhargava/my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/sanchitbhargava/my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/2562-count-ways-to-build-good-strings) |
