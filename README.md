@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanchitbhargava/my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/sanchitbhargava/my-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/2465-shifting-letters-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sanchitbhargava/my-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Union Find
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sanchitbhargava/my-solutions/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
