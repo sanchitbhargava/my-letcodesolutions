@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sanchitbhargava/my-solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/sanchitbhargava/my-solutions/tree/master/0605-can-place-flowers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sanchitbhargava/my-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/sanchitbhargava/my-solutions/tree/master/1894-merge-strings-alternately) |
 ## Math
