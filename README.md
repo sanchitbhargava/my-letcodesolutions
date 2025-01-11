@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanchitbhargava/my-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Union Find
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/sanchitbhargava/my-solutions/tree/master/0605-can-place-flowers) |
+| [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanchitbhargava/my-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
