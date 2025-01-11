@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanchitbhargava/my-solutions/tree/master/0724-find-pivot-index) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/sanchitbhargava/my-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1524-string-matching-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
+| [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
