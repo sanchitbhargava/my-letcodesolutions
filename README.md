@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sanchitbhargava/my-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
 |  |
