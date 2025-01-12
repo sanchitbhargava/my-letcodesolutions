@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sanchitbhargava/my-solutions/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sanchitbhargava/my-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
