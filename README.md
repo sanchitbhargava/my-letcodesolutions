@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1319-unique-number-of-occurrences](https://github.com/sanchitbhargava/my-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sanchitbhargava/my-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanchitbhargava/my-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
+| [1319-unique-number-of-occurrences](https://github.com/sanchitbhargava/my-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
