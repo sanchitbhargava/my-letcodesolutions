@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/sanchitbhargava/my-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sanchitbhargava/my-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sanchitbhargava/my-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/2465-shifting-letters-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/sanchitbhargava/my-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/sanchitbhargava/my-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Trie
 |  |
 | ------- |
