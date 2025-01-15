@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/sanchitbhargava/my-solutions/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/sanchitbhargava/my-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sanchitbhargava/my-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/sanchitbhargava/my-solutions/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
