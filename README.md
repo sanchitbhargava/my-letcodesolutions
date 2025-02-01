@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanchitbhargava/my-solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/sanchitbhargava/my-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sanchitbhargava/my-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/sanchitbhargava/my-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/0002-add-two-numbers) |
+| [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
