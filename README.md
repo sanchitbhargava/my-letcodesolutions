@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/sanchitbhargava/my-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sanchitbhargava/my-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
@@ -457,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sanchitbhargava/my-solutions/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sanchitbhargava/my-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
