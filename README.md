@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/sanchitbhargava/my-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/sanchitbhargava/my-solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sanchitbhargava/my-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sanchitbhargava/my-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sanchitbhargava/my-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/sanchitbhargava/my-solutions/tree/master/2434-design-a-number-container-system) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sanchitbhargava/my-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/sanchitbhargava/my-solutions/tree/master/0871-keys-and-rooms) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sanchitbhargava/my-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sanchitbhargava/my-solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/sanchitbhargava/my-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sanchitbhargava/my-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/sanchitbhargava/my-solutions/tree/master/1876-map-of-highest-peak) |
@@ -354,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Linked List
 |  |
 | ------- |
