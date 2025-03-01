@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sanchitbhargava/my-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sanchitbhargava/my-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sanchitbhargava/my-solutions/tree/master/2413-smallest-number-in-infinite-set) |
@@ -580,5 +581,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
