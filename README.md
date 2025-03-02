@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/sanchitbhargava/my-solutions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/sanchitbhargava/my-solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/sanchitbhargava/my-solutions/tree/master/0399-evaluate-division) |
+| [0649-dota2-senate](https://github.com/sanchitbhargava/my-solutions/tree/master/0649-dota2-senate) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -596,5 +598,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/sanchitbhargava/my-solutions/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
