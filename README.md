@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sanchitbhargava/my-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/sanchitbhargava/my-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [3643-zero-array-transformation-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Counting
 |  |
 | ------- |
