@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanchitbhargava/my-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/sanchitbhargava/my-solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/sanchitbhargava/my-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0101-symmetric-tree) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sanchitbhargava/my-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
@@ -634,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanchitbhargava/my-solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanchitbhargava/my-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
