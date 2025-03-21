@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/sanchitbhargava/my-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
+| [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/sanchitbhargava/my-solutions/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sanchitbhargava/my-solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## String Matching
 |  |
