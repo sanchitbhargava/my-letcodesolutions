@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/sanchitbhargava/my-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sanchitbhargava/my-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanchitbhargava/my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -791,5 +793,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
