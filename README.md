@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanchitbhargava/my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sanchitbhargava/my-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sanchitbhargava/my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -774,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sanchitbhargava/my-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
