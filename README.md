@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanchitbhargava/my-solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sanchitbhargava/my-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
