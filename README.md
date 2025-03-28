@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sanchitbhargava/my-solutions/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/sanchitbhargava/my-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/0053-maximum-subarray) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/sanchitbhargava/my-solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanchitbhargava/my-solutions/tree/master/0374-guess-number-higher-or-lower) |
