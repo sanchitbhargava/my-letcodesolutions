@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sanchitbhargava/my-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sanchitbhargava/my-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanchitbhargava/my-solutions/tree/master/0057-insert-interval) |
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/sanchitbhargava/my-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanchitbhargava/my-solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
