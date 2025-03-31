@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/sanchitbhargava/my-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sanchitbhargava/my-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sanchitbhargava/my-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sanchitbhargava/my-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0216-combination-sum-iii) |
