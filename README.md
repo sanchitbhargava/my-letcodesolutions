@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanchitbhargava/my-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sanchitbhargava/my-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanchitbhargava/my-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanchitbhargava/my-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
@@ -887,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanchitbhargava/my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
