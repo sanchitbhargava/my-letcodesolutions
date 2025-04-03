@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sanchitbhargava/my-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/sanchitbhargava/my-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sanchitbhargava/my-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sanchitbhargava/my-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanchitbhargava/my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sanchitbhargava/my-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
