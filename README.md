@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sanchitbhargava/my-solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sanchitbhargava/my-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0079-word-search) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/sanchitbhargava/my-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sanchitbhargava/my-solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
