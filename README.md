@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sanchitbhargava/my-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sanchitbhargava/my-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanchitbhargava/my-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/sanchitbhargava/my-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/sanchitbhargava/my-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 ## Tree
 |  |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanchitbhargava/my-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
