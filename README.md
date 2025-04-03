@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sanchitbhargava/my-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sanchitbhargava/my-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanchitbhargava/my-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/sanchitbhargava/my-solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sanchitbhargava/my-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sanchitbhargava/my-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sanchitbhargava/my-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanchitbhargava/my-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/sanchitbhargava/my-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sanchitbhargava/my-solutions/tree/master/1396-count-servers-that-communicate) |
