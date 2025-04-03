@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sanchitbhargava/my-solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sanchitbhargava/my-solutions/tree/master/0322-coin-change) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sanchitbhargava/my-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sanchitbhargava/my-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanchitbhargava/my-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sanchitbhargava/my-solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanchitbhargava/my-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/sanchitbhargava/my-solutions/tree/master/0907-koko-eating-bananas) |
