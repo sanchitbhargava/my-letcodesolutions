@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sanchitbhargava/my-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sanchitbhargava/my-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sanchitbhargava/my-solutions/tree/master/0066-plus-one) |
