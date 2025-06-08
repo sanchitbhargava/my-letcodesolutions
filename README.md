@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/sanchitbhargava/my-solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sanchitbhargava/my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/0386-lexicographical-numbers) |
 | [1397-search-suggestions-system](https://github.com/sanchitbhargava/my-solutions/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
