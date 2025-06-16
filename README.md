@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sanchitbhargava/my-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/sanchitbhargava/my-solutions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/sanchitbhargava/my-solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanchitbhargava/my-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
