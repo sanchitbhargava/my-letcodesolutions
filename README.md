@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/sanchitbhargava/my-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/sanchitbhargava/my-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sanchitbhargava/my-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sanchitbhargava/my-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sanchitbhargava/my-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sanchitbhargava/my-solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sanchitbhargava/my-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
