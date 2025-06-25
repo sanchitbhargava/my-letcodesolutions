@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/sanchitbhargava/my-solutions/tree/master/2145-grid-game) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanchitbhargava/my-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sanchitbhargava/my-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1397-search-suggestions-system](https://github.com/sanchitbhargava/my-solutions/tree/master/1397-search-suggestions-system) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sanchitbhargava/my-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sanchitbhargava/my-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sanchitbhargava/my-solutions/tree/master/2665-minimum-time-to-repair-cars) |
