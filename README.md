@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sanchitbhargava/my-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/sanchitbhargava/my-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sanchitbhargava/my-solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/sanchitbhargava/my-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sanchitbhargava/my-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sanchitbhargava/my-solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanchitbhargava/my-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0189-rotate-array) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sanchitbhargava/my-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sanchitbhargava/my-solutions/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sanchitbhargava/my-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
