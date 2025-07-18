@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sanchitbhargava/my-solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/sanchitbhargava/my-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sanchitbhargava/my-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sanchitbhargava/my-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/sanchitbhargava/my-solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sanchitbhargava/my-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sanchitbhargava/my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/sanchitbhargava/my-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sanchitbhargava/my-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanchitbhargava/my-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/sanchitbhargava/my-solutions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/sanchitbhargava/my-solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sanchitbhargava/my-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
