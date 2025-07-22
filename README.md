@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/sanchitbhargava/my-solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/sanchitbhargava/my-solutions/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sanchitbhargava/my-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sanchitbhargava/my-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanchitbhargava/my-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1813-maximum-erasure-value](https://github.com/sanchitbhargava/my-solutions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sanchitbhargava/my-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
