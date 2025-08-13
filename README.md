@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/sanchitbhargava/my-solutions/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/sanchitbhargava/my-solutions/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sanchitbhargava/my-solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
