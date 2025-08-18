@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sanchitbhargava/my-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sanchitbhargava/my-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/sanchitbhargava/my-solutions/tree/master/0724-find-pivot-index) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/sanchitbhargava/my-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/sanchitbhargava/my-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanchitbhargava/my-solutions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -1128,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sanchitbhargava/my-solutions/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0216-combination-sum-iii) |
+| [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanchitbhargava/my-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sanchitbhargava/my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
