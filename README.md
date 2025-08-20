@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/sanchitbhargava/my-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/sanchitbhargava/my-solutions/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanchitbhargava/my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sanchitbhargava/my-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanchitbhargava/my-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanchitbhargava/my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sanchitbhargava/my-solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/sanchitbhargava/my-solutions/tree/master/1396-count-servers-that-communicate) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanchitbhargava/my-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/sanchitbhargava/my-solutions/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sanchitbhargava/my-solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
