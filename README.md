@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/sanchitbhargava/my-solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/sanchitbhargava/my-solutions/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/sanchitbhargava/my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sanchitbhargava/my-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/sanchitbhargava/my-solutions/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sanchitbhargava/my-solutions/tree/master/0945-snakes-and-ladders) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sanchitbhargava/my-solutions/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/sanchitbhargava/my-solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanchitbhargava/my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/sanchitbhargava/my-solutions/tree/master/2048-build-array-from-permutation) |
