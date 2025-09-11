@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/sanchitbhargava/my-solutions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/sanchitbhargava/my-solutions/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sanchitbhargava/my-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sanchitbhargava/my-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
