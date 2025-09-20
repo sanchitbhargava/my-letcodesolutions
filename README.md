@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanchitbhargava/my-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/sanchitbhargava/my-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0792-binary-search) |
@@ -1153,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sanchitbhargava/my-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sanchitbhargava/my-solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
