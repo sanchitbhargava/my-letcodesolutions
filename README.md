@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sanchitbhargava/my-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sanchitbhargava/my-solutions/tree/master/0907-koko-eating-bananas) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanchitbhargava/my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/sanchitbhargava/my-solutions/tree/master/0768-partition-labels) |
+| [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sanchitbhargava/my-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/sanchitbhargava/my-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sanchitbhargava/my-solutions/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0328-odd-even-linked-list) |
+| [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Doubly-Linked List
@@ -1125,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sanchitbhargava/my-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
