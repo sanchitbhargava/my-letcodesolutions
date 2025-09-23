@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanchitbhargava/my-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## String
 |  |
 | ------- |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/sanchitbhargava/my-solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanchitbhargava/my-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1271,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1452,4 +1456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 <!---LeetCode Topics End-->
