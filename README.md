@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/sanchitbhargava/my-solutions/tree/master/3830-find-closest-person) |
+| [3922-minimum-moves-to-reach-target-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 ## Recursion
 |  |
 | ------- |
