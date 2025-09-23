@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/sanchitbhargava/my-solutions/tree/master/3797-design-spreadsheet) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/sanchitbhargava/my-solutions/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3827-implement-router](https://github.com/sanchitbhargava/my-solutions/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/sanchitbhargava/my-solutions/tree/master/3797-design-spreadsheet) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/sanchitbhargava/my-solutions/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanchitbhargava/my-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Stack
