@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanchitbhargava/my-solutions/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sanchitbhargava/my-solutions/tree/master/0907-koko-eating-bananas) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sanchitbhargava/my-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanchitbhargava/my-solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -1378,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
+| [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Ordered Set
