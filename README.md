@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sanchitbhargava/my-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sanchitbhargava/my-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/sanchitbhargava/my-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sanchitbhargava/my-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3643-zero-array-transformation-ii) |
