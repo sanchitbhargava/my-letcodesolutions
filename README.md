@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/sanchitbhargava/my-solutions/tree/master/3797-design-spreadsheet) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/sanchitbhargava/my-solutions/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3827-implement-router](https://github.com/sanchitbhargava/my-solutions/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3913-partition-array-to-minimize-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3913-partition-array-to-minimize-xor) |
 ## Hash Table
 |  |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/sanchitbhargava/my-solutions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanchitbhargava/my-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3913-partition-array-to-minimize-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3913-partition-array-to-minimize-xor) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## String
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/sanchitbhargava/my-solutions/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3922-minimum-moves-to-reach-target-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3922-minimum-moves-to-reach-target-in-grid) |
 ## Recursion
 |  |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3913-partition-array-to-minimize-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3913-partition-array-to-minimize-xor) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Divide and Conquer
@@ -1481,6 +1485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/sanchitbhargava/my-solutions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1521,5 +1526,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 <!---LeetCode Topics End-->
