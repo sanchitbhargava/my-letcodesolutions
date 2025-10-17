@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sanchitbhargava/my-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanchitbhargava/my-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/sanchitbhargava/my-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sanchitbhargava/my-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/sanchitbhargava/my-solutions/tree/master/3396-valid-word) |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sanchitbhargava/my-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1537,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 <!---LeetCode Topics End-->
