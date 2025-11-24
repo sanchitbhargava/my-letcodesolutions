@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/sanchitbhargava/my-solutions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/sanchitbhargava/my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -1226,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sanchitbhargava/my-solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sanchitbhargava/my-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sanchitbhargava/my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
