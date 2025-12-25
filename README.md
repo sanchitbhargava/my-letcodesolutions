@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sanchitbhargava/my-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sanchitbhargava/my-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sanchitbhargava/my-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sanchitbhargava/my-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sanchitbhargava/my-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sanchitbhargava/my-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sanchitbhargava/my-solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sanchitbhargava/my-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sanchitbhargava/my-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sanchitbhargava/my-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sanchitbhargava/my-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
