@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanchitbhargava/my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0746-prefix-and-suffix-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0746-prefix-and-suffix-search) |
+| [0756-pyramid-transition-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/sanchitbhargava/my-solutions/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanchitbhargava/my-solutions/tree/master/0817-design-hashmap) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/sanchitbhargava/my-solutions/tree/master/0649-dota2-senate) |
 | [0746-prefix-and-suffix-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0746-prefix-and-suffix-search) |
+| [0756-pyramid-transition-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/sanchitbhargava/my-solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/sanchitbhargava/my-solutions/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sanchitbhargava/my-solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1318,6 +1320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sanchitbhargava/my-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sanchitbhargava/my-solutions/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sanchitbhargava/my-solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -1514,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanchitbhargava/my-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sanchitbhargava/my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
