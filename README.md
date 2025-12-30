@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanchitbhargava/my-solutions/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sanchitbhargava/my-solutions/tree/master/0907-koko-eating-bananas) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sanchitbhargava/my-solutions/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanchitbhargava/my-solutions/tree/master/0817-design-hashmap) |
+| [0840-magic-squares-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sanchitbhargava/my-solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sanchitbhargava/my-solutions/tree/master/0498-diagonal-traverse) |
 | [0772-construct-quad-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/0772-construct-quad-tree) |
 | [0794-swim-in-rising-water](https://github.com/sanchitbhargava/my-solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sanchitbhargava/my-solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
