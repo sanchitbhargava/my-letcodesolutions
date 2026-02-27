@@ -798,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/sanchitbhargava/my-solutions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -993,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/sanchitbhargava/my-solutions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1171,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/sanchitbhargava/my-solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/sanchitbhargava/my-solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -1753,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/sanchitbhargava/my-solutions/tree/master/2434-design-a-number-container-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/sanchitbhargava/my-solutions/tree/master/3827-implement-router) |
@@ -1870,4 +1874,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3454-separate-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
