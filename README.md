@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sanchitbhargava/my-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/sanchitbhargava/my-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sanchitbhargava/my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
 | [1894-merge-strings-alternately](https://github.com/sanchitbhargava/my-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1980-find-unique-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1980-find-unique-binary-string) |
@@ -1346,6 +1348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/sanchitbhargava/my-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1554,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanchitbhargava/my-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sanchitbhargava/my-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/sanchitbhargava/my-solutions/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sanchitbhargava/my-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sanchitbhargava/my-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/2478-longest-nice-subarray) |
