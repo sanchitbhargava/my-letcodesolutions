@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3161-block-placement-queries) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/sanchitbhargava/my-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -1635,6 +1636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/sanchitbhargava/my-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/sanchitbhargava/my-solutions/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3161-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanchitbhargava/my-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3454-separate-squares-ii) |
@@ -1984,6 +1986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -2018,4 +2021,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
