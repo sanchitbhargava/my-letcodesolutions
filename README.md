@@ -1006,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/sanchitbhargava/my-solutions/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sanchitbhargava/my-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0328-odd-even-linked-list) |
 | [0816-design-hashset](https://github.com/sanchitbhargava/my-solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sanchitbhargava/my-solutions/tree/master/0817-design-hashmap) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
