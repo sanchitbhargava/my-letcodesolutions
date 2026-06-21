@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sanchitbhargava/my-solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sanchitbhargava/my-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/sanchitbhargava/my-solutions/tree/master/1840-maximum-building-height) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sanchitbhargava/my-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sanchitbhargava/my-solutions/tree/master/1840-maximum-building-height) |
 | [2054-two-best-non-overlapping-events](https://github.com/sanchitbhargava/my-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/sanchitbhargava/my-solutions/tree/master/2092-find-all-people-with-secret) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sanchitbhargava/my-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sanchitbhargava/my-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanchitbhargava/my-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -2086,4 +2089,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3161-block-placement-queries) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
