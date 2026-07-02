@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sanchitbhargava/my-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -1333,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/sanchitbhargava/my-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sanchitbhargava/my-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/sanchitbhargava/my-solutions/tree/master/3863-power-grid-maintenance) |
@@ -1518,6 +1520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sanchitbhargava/my-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/sanchitbhargava/my-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sanchitbhargava/my-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1869,6 +1872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/sanchitbhargava/my-solutions/tree/master/2681-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sanchitbhargava/my-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1886,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/sanchitbhargava/my-solutions/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sanchitbhargava/my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
@@ -2115,6 +2120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
