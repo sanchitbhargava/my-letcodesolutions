@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sanchitbhargava/my-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanchitbhargava/my-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/sanchitbhargava/my-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1250-longest-common-subsequence) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sanchitbhargava/my-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1510,6 +1513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanchitbhargava/my-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sanchitbhargava/my-solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/sanchitbhargava/my-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -2219,6 +2223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sanchitbhargava/my-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
@@ -2267,4 +2272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
