@@ -696,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sanchitbhargava/my-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanchitbhargava/my-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/sanchitbhargava/my-solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/sanchitbhargava/my-solutions/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sanchitbhargava/my-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
 | [1894-merge-strings-alternately](https://github.com/sanchitbhargava/my-solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-sum-game](https://github.com/sanchitbhargava/my-solutions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sanchitbhargava/my-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/sanchitbhargava/my-solutions/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sanchitbhargava/my-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/sanchitbhargava/my-solutions/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/sanchitbhargava/my-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sanchitbhargava/my-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/2029-stone-game-ix) |
@@ -2260,6 +2263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanchitbhargava/my-solutions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/sanchitbhargava/my-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Bitmask
