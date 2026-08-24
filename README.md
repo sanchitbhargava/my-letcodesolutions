@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sanchitbhargava/my-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/sanchitbhargava/my-solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sanchitbhargava/my-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sanchitbhargava/my-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sanchitbhargava/my-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/sanchitbhargava/my-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sanchitbhargava/my-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1183,6 +1185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sanchitbhargava/my-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/sanchitbhargava/my-solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sanchitbhargava/my-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/sanchitbhargava/my-solutions/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/sanchitbhargava/my-solutions/tree/master/1927-sum-game) |
@@ -1546,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/sanchitbhargava/my-solutions/tree/master/1833-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/sanchitbhargava/my-solutions/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/sanchitbhargava/my-solutions/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sanchitbhargava/my-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -2263,6 +2267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/sanchitbhargava/my-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sanchitbhargava/my-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -2317,12 +2322,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/sanchitbhargava/my-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
