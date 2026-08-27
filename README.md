@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sanchitbhargava/my-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1906,6 +1909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/sanchitbhargava/my-solutions/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -2245,6 +2249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
