@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3913-partition-array-to-minimize-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3913-partition-array-to-minimize-xor) |
 ## Hash Table
 |  |
@@ -1601,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sanchitbhargava/my-solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3913-partition-array-to-minimize-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3913-partition-array-to-minimize-xor) |
 ## Matrix
 |  |
