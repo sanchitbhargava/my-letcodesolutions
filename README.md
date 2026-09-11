@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanchitbhargava/my-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanchitbhargava/my-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sanchitbhargava/my-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sanchitbhargava/my-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sanchitbhargava/my-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1298,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sanchitbhargava/my-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
@@ -2271,6 +2274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/sanchitbhargava/my-solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sanchitbhargava/my-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
