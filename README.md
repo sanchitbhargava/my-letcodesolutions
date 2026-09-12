@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sanchitbhargava/my-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sanchitbhargava/my-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3429-special-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sanchitbhargava/my-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sanchitbhargava/my-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/sanchitbhargava/my-solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanchitbhargava/my-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sanchitbhargava/my-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sanchitbhargava/my-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sanchitbhargava/my-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanchitbhargava/my-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1887,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sanchitbhargava/my-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sanchitbhargava/my-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/sanchitbhargava/my-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3454-separate-squares-ii) |
