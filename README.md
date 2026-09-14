@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/sanchitbhargava/my-solutions/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/sanchitbhargava/my-solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
@@ -2152,6 +2153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sanchitbhargava/my-solutions/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/sanchitbhargava/my-solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/sanchitbhargava/my-solutions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sanchitbhargava/my-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sanchitbhargava/my-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
