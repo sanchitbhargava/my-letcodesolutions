@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sanchitbhargava/my-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/sanchitbhargava/my-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanchitbhargava/my-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/sanchitbhargava/my-solutions/tree/master/1397-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanchitbhargava/my-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sanchitbhargava/my-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sanchitbhargava/my-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sanchitbhargava/my-solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sanchitbhargava/my-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sanchitbhargava/my-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/sanchitbhargava/my-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanchitbhargava/my-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanchitbhargava/my-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
