@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sanchitbhargava/my-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/sanchitbhargava/my-solutions/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitbhargava/my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/sanchitbhargava/my-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/sanchitbhargava/my-solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanchitbhargava/my-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanchitbhargava/my-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanchitbhargava/my-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanchitbhargava/my-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1480,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/sanchitbhargava/my-solutions/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/sanchitbhargava/my-solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitbhargava/my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1306-jump-game-iii) |
@@ -2007,6 +2012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/sanchitbhargava/my-solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sanchitbhargava/my-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1980-find-unique-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1980-find-unique-binary-string) |
