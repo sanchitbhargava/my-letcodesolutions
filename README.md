@@ -953,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sanchitbhargava/my-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/sanchitbhargava/my-solutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sanchitbhargava/my-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sanchitbhargava/my-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanchitbhargava/my-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sanchitbhargava/my-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sanchitbhargava/my-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sanchitbhargava/my-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -2423,4 +2425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/sanchitbhargava/my-solutions/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
