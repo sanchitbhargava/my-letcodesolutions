@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sanchitbhargava/my-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sanchitbhargava/my-solutions/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/sanchitbhargava/my-solutions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanchitbhargava/my-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/sanchitbhargava/my-solutions/tree/master/0768-partition-labels) |
@@ -806,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sanchitbhargava/my-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/sanchitbhargava/my-solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sanchitbhargava/my-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sanchitbhargava/my-solutions/tree/master/0474-ones-and-zeroes) |
 | [0649-dota2-senate](https://github.com/sanchitbhargava/my-solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/sanchitbhargava/my-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-prefix-and-suffix-search](https://github.com/sanchitbhargava/my-solutions/tree/master/0746-prefix-and-suffix-search) |
 | [0756-pyramid-transition-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/sanchitbhargava/my-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/sanchitbhargava/my-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
@@ -2437,6 +2441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
