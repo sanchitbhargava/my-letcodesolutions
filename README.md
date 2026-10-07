@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sanchitbhargava/my-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sanchitbhargava/my-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/sanchitbhargava/my-solutions/tree/master/0768-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/sanchitbhargava/my-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sanchitbhargava/my-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/sanchitbhargava/my-solutions/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sanchitbhargava/my-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/sanchitbhargava/my-solutions/tree/master/0952-word-subsets) |
@@ -1089,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sanchitbhargava/my-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sanchitbhargava/my-solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/sanchitbhargava/my-solutions/tree/master/0937-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sanchitbhargava/my-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
@@ -2445,6 +2448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sanchitbhargava/my-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitbhargava/my-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sanchitbhargava/my-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchitbhargava/my-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
