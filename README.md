@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitbhargava/my-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3731-find-missing-elements) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanchitbhargava/my-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sanchitbhargava/my-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitbhargava/my-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanchitbhargava/my-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanchitbhargava/my-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitbhargava/my-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
