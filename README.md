@@ -1094,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/sanchitbhargava/my-solutions/tree/master/3797-design-spreadsheet) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/sanchitbhargava/my-solutions/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3838-weighted-word-mapping](https://github.com/sanchitbhargava/my-solutions/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanchitbhargava/my-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3930-longest-palindromic-path-in-graph](https://github.com/sanchitbhargava/my-solutions/tree/master/3930-longest-palindromic-path-in-graph) |
 ## Stack
