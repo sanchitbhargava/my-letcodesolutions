@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/sanchitbhargava/my-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1140-stone-game-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1140-stone-game-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sanchitbhargava/my-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sanchitbhargava/my-solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1476,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sanchitbhargava/my-solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitbhargava/my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sanchitbhargava/my-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1540,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/1096-brace-expansion-ii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitbhargava/my-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sanchitbhargava/my-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sanchitbhargava/my-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1733,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/sanchitbhargava/my-solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/sanchitbhargava/my-solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sanchitbhargava/my-solutions/tree/master/1036-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sanchitbhargava/my-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanchitbhargava/my-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -2433,6 +2437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sanchitbhargava/my-solutions/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sanchitbhargava/my-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
