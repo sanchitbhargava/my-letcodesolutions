@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sanchitbhargava/my-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3620-network-recovery-pathways](https://github.com/sanchitbhargava/my-solutions/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1503,6 +1504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/sanchitbhargava/my-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/sanchitbhargava/my-solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -1567,6 +1569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/sanchitbhargava/my-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanchitbhargava/my-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sanchitbhargava/my-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/sanchitbhargava/my-solutions/tree/master/3863-power-grid-maintenance) |
@@ -1772,6 +1775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sanchitbhargava/my-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanchitbhargava/my-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -2448,6 +2452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sanchitbhargava/my-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sanchitbhargava/my-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
