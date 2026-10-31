@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sanchitbhargava/my-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3660-jump-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/sanchitbhargava/my-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sanchitbhargava/my-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3631-count-k-reducible-numbers-less-than-n](https://github.com/sanchitbhargava/my-solutions/tree/master/3631-count-k-reducible-numbers-less-than-n) |
 | [3637-count-number-of-balanced-permutations](https://github.com/sanchitbhargava/my-solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3660-jump-game-ix](https://github.com/sanchitbhargava/my-solutions/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/sanchitbhargava/my-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanchitbhargava/my-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1785,6 +1787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sanchitbhargava/my-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/sanchitbhargava/my-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sanchitbhargava/my-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sanchitbhargava/my-solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanchitbhargava/my-solutions/tree/master/3748-sort-matrix-by-diagonals) |
