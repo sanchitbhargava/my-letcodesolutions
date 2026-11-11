@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitbhargava/my-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchitbhargava/my-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -1388,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchitbhargava/my-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3830-find-closest-person](https://github.com/sanchitbhargava/my-solutions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/sanchitbhargava/my-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
