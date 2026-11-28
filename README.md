@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/sanchitbhargava/my-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/sanchitbhargava/my-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/sanchitbhargava/my-solutions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sanchitbhargava/my-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sanchitbhargava/my-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sanchitbhargava/my-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sanchitbhargava/my-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/sanchitbhargava/my-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2264,6 +2267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/sanchitbhargava/my-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/sanchitbhargava/my-solutions/tree/master/3863-power-grid-maintenance) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/sanchitbhargava/my-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sanchitbhargava/my-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
